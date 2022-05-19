@@ -41,43 +41,23 @@
 					"name": "Text 2"
 				},
 				{
-					"slug": "font-tertiary",
-					"color": "#9285AD ",
-					"name": "Text 3"
-				},
-				{
 					"slug": "primary",
-					"color": "#ffffff",
+					"color": "#161616",
 					"name": "Accent 1"
 				},
 				{
 					"slug": "secondary",
-					"color": "#DECFFC",
+					"color": "#2715eb",
 					"name": "Accent 2"
 				},
 				{
-					"slug": "tertiary",
-					"color": "#4E1FAD",
-					"name": "Accent 3"
-				},
-				{
-					"slug": "quarternary",
-					"color": "#FF1A40",
-					"name": "Accent 4"
-				},
-				{
-					"slug": "quinary",
-					"color": "#EDEBF3",
-					"name": "Accent 5"
-				},
-				{
 					"slug": "button-color-primary",
-					"color": "#170F26",
+					"color": "#ffffff",
 					"name": "Top 1"
 				},
 				{
 					"slug": "button-color-secondary",
-					"color": "#170F26",
+					"color": "#161616",
 					"name": "Top 2"
 				},
 				{
@@ -89,76 +69,13 @@
 					"slug": "border-secondary",
 					"color": "#ffffff60",
 					"name": "Border 2"
-				},
+				}
+			],
+			"gradients": [
 				{
-					"slug": "variant-background-primary",
-					"color": "#160A29",
-					"name": "Variant Background 1"
-				},
-				{
-					"slug": "variant-background-secondary",
-					"color": "#210F3E",
-					"name": "Variant Background 2"
-				},
-				{
-					"slug": "variant-font-primary",
-					"color": "#f7f7f7",
-					"name": "Variant Text 1"
-				},
-				{
-					"slug": "variant-font-secondary",
-					"color": "#C9C2D6",
-					"name": "Variant Text 2"
-				},
-				{
-					"slug": "variant-font-tertiary",
-					"color": "#9285AD ",
-					"name": "Variant Text 3"
-				},
-				{
-					"slug": "variant-primary",
-					"color": "#ffffff",
-					"name": "Variant Accent 1"
-				},
-				{
-					"slug": "variant-secondary",
-					"color": "#DECFFC",
-					"name": "Variant Accent 2"
-				},
-				{
-					"slug": "variant-tertiary",
-					"color": "#AC86F9",
-					"name": "Variant Accent 3"
-				},
-				{
-					"slug": "variant-quarternary",
-					"color": "#FF6680",
-					"name": "Variant Accent 4"
-				},
-				{ 
-					"slug": "variant-quinary",
-					"color": "#2B203E",
-					"name": "Variant Accent 5"
-				},
-				{
-					"slug": "variant-button-color-primary",
-					"color": "#000000",
-					"name": "Variant Top 1"
-				},
-				{
-					"slug": "variant-button-color-secondary",
-					"color": "#000000",
-					"name": "Variant Top 2"
-				},
-				{
-					"slug": "variant-border-primary",
-					"color": "#14082B60",
-					"name": "Variant Border 1"
-				},
-				{
-					"slug": "variant-border-secondary",
-					"color": "#ffffff20",
-					"name": "Variant Border 2"
+					"slug": "gradient-primary",
+					"gradient": "linear-gradient(225deg, #FF7448 0%, #D45469 50%, #5A52F5 100%)",
+					"name": "Gradient 1"
 				}
 			]
 		},
@@ -335,6 +252,11 @@
 				},
 				"color": {
 					"text": "var(--wp--preset--color--font-primary)"
+				}
+			},
+			"link": {
+				"color": {
+					"text": "var(--wp--preset--color--font-secondary)"
 				}
 			}
 		},
