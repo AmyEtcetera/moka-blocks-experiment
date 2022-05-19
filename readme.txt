@@ -13,8 +13,6 @@ Moka Blocks is a minimal block theme for bloggers.
 
 Moka Blocks is a minimal block theme for bloggers.
 
-You can find more information and helpful resources on https://ainoblocks.io
-
 == Copyright ==
 
 Moka Blocks, (C) 2022 Elmastudio Ltd.
