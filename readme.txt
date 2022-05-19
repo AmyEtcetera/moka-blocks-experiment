@@ -32,10 +32,10 @@ GNU General Public License for more details.
 
 Moka Blocks WordPress Theme bundles the following third-party resources:
 
-Source Serif Font
-Copyright 2014-2021 Adobe (http://www.adobe.com/)
+Lato Font
+Copyright 2014-2022 Adobe (http://www.adobe.com/)
 License: SIL Open Font License, 1.1, https://opensource.org/licenses/OFL-1.1
-Source: https://github.com/adobe-fonts/source-serif
+Source: https://www.latofonts.com/
 
 * Screenshot Block Pattern Images, (c) Elmastudio Ltd., CC0 1.0 Universal (CC0 1.0) license
 
